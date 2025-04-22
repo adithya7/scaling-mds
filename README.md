@@ -8,7 +8,7 @@ See [requirements.txt](requirements.txt).
 
 ## Data
 
-We provide the HuggingFace dataset loading scripts for the three datasets in [data/](data/). Before loading the dataset, use the original releases to download the source data.
+See [artifacts/misc](artifacts/misc) for dataset loading scripts and the instructions to download the datasets.
 
 ## Experiments
 
