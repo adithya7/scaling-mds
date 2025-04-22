@@ -46,6 +46,10 @@ We compute ROUGE and A3CU metrics.
 bash bash_scripts/score.sh Llama31_8B SummHay test
 ```
 
+### System Predictions and Human Eval
+
+We share our system predictions and human evaluation data in this [Google Drive folder](https://drive.google.com/drive/folders/19E-lOSHNNq_fdcxXl0IbPx2xhIJkSUNA?usp=drive_link).
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file.
